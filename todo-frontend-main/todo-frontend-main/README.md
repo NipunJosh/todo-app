@@ -141,7 +141,7 @@ This is the high-level architecture for the app. It shows how the **frontend** c
 
 ---
 
-## Assumptions
+## Authentication Info
 
 - The app uses Firebase Authentication for login, and tasks are stored in MongoDB.
 - Only **Google Authentication** is enabled in Firebase for simplicity.
