@@ -1,7 +1,6 @@
 
 # ToDo App
 
-This project is a part of a hackathon run by [Katomaran](https://www.katomaran.com).
 
 ## Project Overview
 
@@ -140,15 +139,8 @@ This is the high-level architecture for the app. It shows how the **frontend** c
 
 ---
 
-## Demo Video
 
-Please refer to the following link to watch the demo of the app in action:
-
-[Link to Loom Demo Video](https://www.loom.com/share/91ad4ab974854ed3a4c06d035fa78b31)
-
----
-
-## Assumptions
+## Authentication Info
 
 - The app uses Firebase Authentication for login, and tasks are stored in MongoDB.
 - Only **Google Authentication** is enabled in Firebase for simplicity.
@@ -156,4 +148,3 @@ Please refer to the following link to watch the demo of the app in action:
 
 ---
 
-### **This project is a part of a hackathon run by [Katomaran](https://www.katomaran.com)**
